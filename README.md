@@ -41,9 +41,7 @@ API-KEY-SERVICE/
 │   ├── rate_limiter.py
 │   ├── schemas.py
 │   ├── auth.py
-│
-├── venv/
-├── test.db
+|
 ├── README.md
 ```
 
