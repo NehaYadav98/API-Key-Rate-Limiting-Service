@@ -52,7 +52,7 @@ API-KEY-SERVICE/
 ### 1. Clone the Repository
 
 ```
-git clone <your-repo-link>
+git clone https://github.com/NehaYadav98/API-Key-Rate-Limiting-Service
 cd api-key-service
 ```
 
